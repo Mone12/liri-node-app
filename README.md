@@ -12,28 +12,28 @@ Making sure you are in the liri file in the terminal you are able to choose betw
 
 * spotify-this-song
 
-Example---
+> node liri spotify-this-song "Purple Rain"
 
 Searches for songs using the node-spotify-api and should display the song information that includes artist and album name.
 
 
 * concert-this
 
-Example---
+> node liri concert-this "Ariana Grande"
 
 Uses the Bands In Town API to search for concerts near by with the location and date included.
 
 * movie-this
 
-Example---
+> node liri movie-this "Cinderella"
 
 Uses the Omdb API to search for movie names, including year and date of release, and cast names.
 
 * do-what-it-says
 
-> Example---
+> node liri do-what-it-says
 
-When the user puts in one of the top three commands without a specific artist, song, or movie it displays a random text from the 'random.txt file.
+When the user puts in this commands, node grabs the text from the 'random.txt' file and displays in the command line.
 
 ### Npm packages used
 * dotenv
