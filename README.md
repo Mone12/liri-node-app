@@ -12,7 +12,7 @@ Making sure you are in the liri file in the terminal you are able to choose betw
 
 * spotify-this-song
 
-example [node liri spotify-this-song "Purple Rain"]
+(example) [node liri spotify-this-song "Purple Rain"]
 
 Searches for songs using the node-spotify-api and should display the song information that includes artist and album name.
 
