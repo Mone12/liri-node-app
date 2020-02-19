@@ -1,12 +1,12 @@
 # Liri-node-app
 
-# Liri Bot Homework Demo - (https://youtu.be/cyBp1PgOUKs) 
+### Liri Bot Homework Demo - (https://youtu.be/cyBp1PgOUKs) 
 
-Summary
+### Summary
 
 The Liribot is a command line app, similar to Siri, that uses Node to take in parameters and gives back data using Node js, node-spotify-api, Bands In Town API, Omdb API, axios, moment, and dotenv. The purpose of this app is to find concerts, songs and movies through user input.
 
-Commands
+## Commands
 
 Making sure you are in the liri file in the terminal you are able to choose between these four commands.
 
