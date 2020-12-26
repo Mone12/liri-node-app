@@ -11,11 +11,13 @@ The Liribot is a command line app, similar to Siri, that uses Node to take in pa
     1. Clone repo
     2. Run `npm install`
 
-### Commands
+### Usage
 
-Making sure you are in the liri file in the terminal you are able to choose between these four commands.
-
-* spotify-this-song
+Making sure you are in the liribot folder in the terminal, you are able to choose between these four Commands:
+ 1. `spotify-this-song`
+ 2. `concert-this`
+ 3. `movie-this`
+ 4. `do-what-it-says`
 
 > node liri spotify-this-song "Purple Rain"
 
