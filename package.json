@@ -21,11 +21,14 @@
     "axios": "^0.19.2",
     "dotenv": "^8.2.0",
     "fs": "0.0.1-security",
+    "keys": "^0.1.2",
     "keys.js": "^1.0.2",
     "liri": "^1.0.1",
     "moment": "^2.24.0",
     "node-keys": "^0.1.5",
     "node-spotify-api": "^1.1.1",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "rp": "^0.2.0",
+    "spotify": "^0.3.0"
   }
 }
