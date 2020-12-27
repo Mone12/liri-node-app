@@ -38,7 +38,7 @@ node liri do-what-it-says
 
 ## Demo
 
-![Liri Demo]https://github.com/Mone12/liri-node-app/blob/master/assets/liri-demo.gif)
+![Liri Demo](https://github.com/Mone12/liri-node-app/blob/master/assets/liri-demo.gif)
 
 Or watch on Youtube here: https://www.youtube.com/watch?v=cyBp1PgOUKs&feature=youtu.be
 
