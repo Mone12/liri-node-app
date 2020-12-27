@@ -38,7 +38,9 @@ node liri do-what-it-says
 
 ## Demo
 
-(https://youtu.be/cyBp1PgOUKs) 
+![Liri Demo](https://github.com/Mone12/liri-node-app/blob/master/assets/(48%20liribot%20-%20YouTube.gif))
+
+ 
 
 ## Built with:
  * JavaScript/Jquery
